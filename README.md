@@ -1,8 +1,6 @@
-       Olá!!! Bem vindo 🤩
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
-
-      
+       ### Olá!!! Bem vindo 🤩 <h3>
+          
+             ✨ Focado no futuro    
 - 🔭 Atualmente buscando uma oportunidade de emprego
 - 🌱 Aprendendo atualmente sobre: Python, IA, R
 - 💬 Pergunte me sobre: Ciência de dados
